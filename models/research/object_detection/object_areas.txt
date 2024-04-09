@@ -1,0 +1,100 @@
+Image Path: .\test_images\000000000001.jpg
+Class: truck
+Area: 0.24
+Confidence Score: 0.7512
+
+Image Path: .\test_images\000000000001.jpg
+Class: car
+Area: 0.23
+Confidence Score: 0.8255
+
+Image Path: .\test_images\000000000001.jpg
+Class: car
+Area: 0.05
+Confidence Score: 0.5160
+
+Image Path: .\test_images\000000000108.jpg
+Class: train
+Area: 0.19
+Confidence Score: 0.8036
+
+Image Path: .\test_images\000000000171.jpg
+Class: person
+Area: 0.57
+Confidence Score: 0.6999
+
+Image Path: .\test_images\000000000171.jpg
+Class: tie
+Area: 0.02
+Confidence Score: 0.7582
+
+Image Path: .\test_images\000000000191.jpg
+Class: airplane
+Area: 0.58
+Confidence Score: 0.8834
+
+Image Path: .\test_images\000000000205.jpg
+Class: dining table
+Area: 0.97
+Confidence Score: 0.5611
+
+Image Path: .\test_images\000000000205.jpg
+Class: fork
+Area: 0.19
+Confidence Score: 0.7012
+
+Image Path: .\test_images\image1.jpg
+Class: dog
+Area: 0.27
+Confidence Score: 0.7612
+
+Image Path: .\test_images\image1.jpg
+Class: dog
+Area: 0.25
+Confidence Score: 0.6761
+
+Image Path: .\test_images\image2.jpg
+Class: bicycle
+Area: 0.10
+Confidence Score: 0.6051
+
+Image Path: .\test_images\image2.jpg
+Class: person
+Area: 0.09
+Confidence Score: 0.6849
+
+Image Path: .\test_images\image2.jpg
+Class: car
+Area: 0.04
+Confidence Score: 0.7062
+
+Image Path: .\test_images\image3.jpg
+Class: person
+Area: 0.28
+Confidence Score: 0.7072
+
+Image Path: .\test_images\image3.jpg
+Class: person
+Area: 0.21
+Confidence Score: 0.7585
+
+Image Path: .\test_images\image3.jpg
+Class: person
+Area: 0.04
+Confidence Score: 0.6958
+
+Image Path: .\test_images\image4.jpg
+Class: person
+Area: 0.71
+Confidence Score: 0.5044
+
+Image Path: .\test_images\image4.jpg
+Class: dog
+Area: 0.46
+Confidence Score: 0.7225
+
+Image Path: .\test_images\image4.jpg
+Class: teddy bear
+Area: 0.10
+Confidence Score: 0.5081
+
