@@ -80,7 +80,7 @@ def run_inference(model, category_index, image_path):
     for file_extension in ('*.png', '*.jpg'):
         image_paths.extend(glob.glob(os.path.join(image_path, file_extension)))
 
-    with open('object_areas.txt', 'a') as f:  # Open the file in append mode
+    with open('object_areas.txt', 'w') as f:  # Open the file in append mode
         for i_path in image_paths:
             image_np = load_image_into_numpy_array(i_path)
             # Actual detection.
